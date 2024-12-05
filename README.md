@@ -1,4 +1,3 @@
-```markdown
 # Medication Reminder API
 
 This project is a **Medication Reminder System** that allows users to manage their medication schedules and receive reminders via **email, SMS,** and **push notifications**. It is built with **Django** for the backend and **React.js** for the frontend.
