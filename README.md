@@ -158,11 +158,12 @@ The frontend interacts with the backend via RESTful API endpoints. The main UI c
 ---
 
 ## Contribors
+```
 Malcolm Chikadibia Iheremelam (Backend)
 Mohammed Yassine Nabat (Backend)
 Albert Aniediong Etim (Frontend)
 Izubundu Wokoma (Frontend)
-
+```
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
 ---
