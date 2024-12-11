@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'api' # My Team's App (portfolio project)
+    'api', # My Team's App (portfolio project)
+    'rest_framework', # Django REST Framework
 ]
 
 MIDDLEWARE = [
