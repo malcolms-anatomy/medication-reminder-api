@@ -2,28 +2,6 @@
 
 This project is a **Medication Reminder System** that allows users to manage their medication schedules and receive reminders via **email, SMS,** and **push notifications**. It is built with **Django** for the backend and **React.js** for the frontend.
 
-
-## Current Progress
-- **Django Project**: Initialized.
-- **API App**: Created and registered.
-
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone <URL>
-   cd medication-reminder-api
-   ```
-2. Install dependencies:
-   ```bash
-   pip install django
-   ```
-3. Run the development server:
-   ```bash
-   python manage.py runserver
-   ```
-
-
-
 ## Table of Contents
 
 - [Features](#features)
